@@ -1,0 +1,43 @@
+@font-face {
+    src:url("Galada-Regular.ttf");
+}
+/*
+.button {
+    -fx-background-color: #1761a0;
+    -fx-background-repeat:no-repeat;
+    -fx-border: none;
+    -fx-cursor:pointer;
+    -fx-overflow: hidden;
+    -fx-outline:none;
+    -fx-background-radius: 40;
+    -fx-text-fill: black;
+    -fx-font-weight: bold;
+    -fx-font-size: 40;
+    -fx-font-family: "Galada";
+}
+
+.button:hover {
+    -fx-border: dashed;
+    -fx-border-fill: gray;
+    -fx-font-weight: bold;
+    -fx-background-color: Black;
+    -fx-background-radius: 40;
+    -fx-font-size: 40;
+    -fx-font-family: "Galada";
+    -fx-text-fill: #1761a0;
+    -fx-effect: dropshadow( one-pass-box , rgba(0, 153, 255,0.5) , 0, 0.0 , 0 , 1);
+}
+
+.button:pressed {
+    -fx-border: dashed;
+    -fx-background-color: black;
+    -fx-background-repeat:no-repeat;
+    -fx-border: none;
+    -fx-cursor:pointer;
+    -fx-overflow: hidden;
+    -fx-outline:none;
+    -fx-text-fill: #cccccc;
+    -fx-font-size: 40;
+    -fx-font-family: "Galada";
+}
+*/

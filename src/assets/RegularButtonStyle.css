@@ -1,0 +1,34 @@
+#regularButton {
+    -fx-background-color: #1761a0;
+    -fx-background-repeat:no-repeat;
+    -fx-border: none;
+    -fx-cursor:pointer;
+    -fx-overflow: hidden;
+    -fx-outline:none;
+    -fx-background-radius: 10;
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-font-size: 15;
+}
+
+#regularButton:hover {
+    -fx-border: dashed;
+    -fx-border-fill: gray;
+    -fx-font-weight: bold;
+    -fx-background-color: #0d4370;
+    -fx-background-radius: 10;
+    -fx-font-size: 15;
+    -fx-text-fill: #ffffff;
+}
+
+#regularButton:pressed {
+    -fx-border: dashed;
+    -fx-background-color: #002039;
+    -fx-background-repeat: no-repeat;
+    -fx-border: none;
+    -fx-cursor: pointer;
+    -fx-overflow: hidden;
+    -fx-outline: none;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 15;
+}
